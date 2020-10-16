@@ -11,6 +11,7 @@ __________________________________________
 ## Blogs and Articles : 
 - *(Detectify Blog)* **Security in general - trends 2020** : https://blog.detectify.com/2020/01/30/web-security-trends-to-watch-for-2020/
 - *(Detectify Blog)* **CI/CD Pipelines security** : https://blog.detectify.com/2019/04/03/scale-up-security-in-devops-teams/
+- *(Kali Linux Blog)* **Security and Ethical Hacking/Pen Test** : https://www.kali.org/blog/
 
 ## Forums :
 - *(Les Compagnons du DevOps)* **DevOps (including security)** : https://forum.compagnons-devops.fr/
