@@ -25,7 +25,7 @@ __________________________________________
 - *(Les Compagnons du DevOps)* **DevOps (including security)** : https://www.youtube.com/channel/UCauIDghddUNu6Fto1nR9Bmg
 - *(Cocadmin)* **DevOps (including security)** : https://www.youtube.com/channel/UCVRJ6D343dX-x730MRP8tNw
 
-## Communauté : 
+## Community : 
 - *(Communauté Craft Wealcome)* **Software Craftsmanship (including some security)** : http://wealcome.slack.com
 - *(reddit cybersecurity)* **r/cybersecurity** : https://www.reddit.com/r/cybersecurity/
 
@@ -37,6 +37,6 @@ __________________________________________
 
 *_TODO_ : a lot (really a lot) of things to sort.*
 
-## Communauté : 
+## Community : 
 - *(Communauté Craft Wealcome)* **Software Craftsmanship** : http://wealcome.slack.com
 - *(reddit haskell)* **r/haskell** : https://www.reddit.com/r/haskell/
