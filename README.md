@@ -39,3 +39,4 @@ __________________________________________
 
 ## Communauté : 
 - *(Communauté Craft Wealcome)* **Software Craftsmanship** : http://wealcome.slack.com
+- *(reddit haskell)* **r/haskell** : https://www.reddit.com/r/haskell/
