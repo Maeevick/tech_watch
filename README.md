@@ -27,7 +27,7 @@ __________________________________________
 
 ## Communauté : 
 - *(Communauté Craft Wealcome)* **Software Craftsmanship (including some security)** : wealcome.slack.com
-
+- *(reddit cybersecurity)* **r/cybersecurity** : https://www.reddit.com/r/cybersecurity/
 ## Some well-known attacks : 
 - https://github.com/Maeevick/tech_watch/wiki/Tech-Watch
 
