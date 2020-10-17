@@ -26,8 +26,9 @@ __________________________________________
 - *(Cocadmin)* **DevOps (including security)** : https://www.youtube.com/channel/UCVRJ6D343dX-x730MRP8tNw
 
 ## Communauté : 
-- *(Communauté Craft Wealcome)* **Software Craftsmanship (including some security)** : wealcome.slack.com
+- *(Communauté Craft Wealcome)* **Software Craftsmanship (including some security)** : http://wealcome.slack.com
 - *(reddit cybersecurity)* **r/cybersecurity** : https://www.reddit.com/r/cybersecurity/
+
 ## Some well-known attacks : 
 - https://github.com/Maeevick/tech_watch/wiki/Tech-Watch
 
@@ -37,4 +38,4 @@ __________________________________________
 *_TODO_ : a lot (really a lot) of things to sort.*
 
 ## Communauté : 
-- *(Communauté Craft Wealcome)* **Software Craftsmanship** : wealcome.slack.com
+- *(Communauté Craft Wealcome)* **Software Craftsmanship** : http://wealcome.slack.com
